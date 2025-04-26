@@ -32,7 +32,7 @@ You can run the system in **two ways**:
 #### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/real-time-object-tracker.git
+git clone https://github.com/arkakran/Real-Time-Detection-of-Object-Missing-and-New-Object-Placement-in-Video.git
 cd real-time-object-tracker
 ```
 
